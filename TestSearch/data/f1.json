@@ -1,0 +1,8 @@
+{
+	"debug":"on",
+	"windows":{
+		"title":"sample",
+		"size":500,
+		"comments":["aa aa","bb bb","cc cc"]
+	}
+}
